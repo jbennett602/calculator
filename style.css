@@ -9,6 +9,7 @@
     font-size: 14px;
     background-color: #3498db;
     height: 100%;
+    
   }
 
   .calculator{
@@ -75,7 +76,6 @@
  }
 
  .bottom section{
-  
   position: relative;
   height: 100%;
   float: left;
